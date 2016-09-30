@@ -3,22 +3,22 @@
     background-color: #E1E1E1;
 }
 
-div.page-header{
+#jarrdyLogo{
+    height:100px;
+}
+
+}nav#theNav.navbar.navbar-static-top{
     margin-top:0px;
-    background-color:#1E6990;
-    padding-top:0px;
     margin-bottom:0px;
-    height:48px;
-    text-align:center;
-   
+    color: #1E6D94;
+    background-color:#E1E1E1;
 }
-a.header_bar{
-    color:#E1E1E1;
-    font:bold 12px Verdana;
-    background:#164C6A;
-    padding:12px 24px;
+
+#theNav a{
+    color:#1E6D94;
 }
-a.header_bar:hover{
-    text-decoration:none;
-    background:#0D2E3F;
+
+#theNav a:hover{
+    background:#CCCCCC;
+    color:#1E6D94;
 }
