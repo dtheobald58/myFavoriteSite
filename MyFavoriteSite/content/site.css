@@ -22,3 +22,17 @@
     background:#CCCCCC;
     color:#1E6D94;
 }
+
+/*BUTTON*/
+button.navbar-toggle{
+    border: 1px solid #1E6D94;
+}
+
+span.icon-bar{
+    border: 1px solid #1E6D94;
+}
+
+.mainSec{
+    background-image:url('../images/awesometigerbackground.jpg');
+    height:auto;
+}

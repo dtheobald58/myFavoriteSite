@@ -107,6 +107,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="content\site.css" />
+    <Content Include="images\awesometigerbackground.jpg" />
     <Content Include="images\jarrbuckslogo.jpg" />
     <Content Include="index.html" />
     <Content Include="scripts\ai.0.15.0-build58334.js" />
